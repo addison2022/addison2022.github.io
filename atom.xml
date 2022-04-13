@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白子卿</title>
+  
+  <subtitle>子卿@博客</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-11-01T05:56:16.186Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>baiziqing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>c++核心编程</title>
+    <link href="http://example.com/2021/10/27/c-he-xin-bian-cheng/"/>
+    <id>http://example.com/2021/10/27/c-he-xin-bian-cheng/</id>
+    <published>2021-10-27T11:25:53.143Z</published>
+    <updated>2021-11-01T05:56:16.186Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;C-核心编程&quot;&gt;&lt;a href=&quot;#C-核心编程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="c++" scheme="http://example.com/categories/c/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>看板娘</title>
+    <link href="http://example.com/2021/10/26/hexo-bo-ke-matery-zhu-ti-mei-hua-zhi-kan-ban-niang-neng-shuo-hua-neng-huan-zhuang-qie-huan-xiao-ren/"/>
+    <id>http://example.com/2021/10/26/hexo-bo-ke-matery-zhu-ti-mei-hua-zhi-kan-ban-niang-neng-shuo-hua-neng-huan-zhuang-qie-huan-xiao-ren/</id>
+    <published>2021-10-26T03:08:14.445Z</published>
+    <updated>2021-10-30T03:07:13.511Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h2&gt;&lt;h3 id=&quot;1-1、Live2D&quot;&gt;&lt;a href=&quot;#1-1、Live2D&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>c++程序设计</title>
+    <link href="http://example.com/2021/10/25/c-cheng-xu-she-ji/"/>
+    <id>http://example.com/2021/10/25/c-cheng-xu-she-ji/</id>
+    <published>2021-10-25T01:10:12.751Z</published>
+    <updated>2021-11-01T06:59:46.639Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="c++" scheme="http://example.com/categories/c/"/>
+    
+    
+  </entry>
+  
+</feed>
