@@ -1,1 +1,0 @@
-Package size exceeded the configured limit of 50 MB. Try https://github.com/Yafine/cdn/tree/3.1.3/source/js/lihua.js instead.
